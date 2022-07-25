@@ -192,8 +192,12 @@ species_col <- c("SpeciesCode")  # Names of columns with species data, as listed
 name_type <- "scientific"  # "scientific" or "common"
 codes_to_omit <- c("NOSP")  # Species codes that aren't actual species - codes for unknown sp, no sp., etc.
 taxa_authority <- c(3, 11, 9)  # Use ITIS to resolve taxonomic names, with GBIF then WORMS as backup.
+tc_path <- here::here("dataPackages", data_pkg_name, "metadata_templates", "taxonomic_coverage.txt")
 
-if (overwrite_existing) {
+if (overwrite_existing || !file.exists(tc_path)) {
+  if (file.exists(tc_path)) {
+    unlink(tc_path)
+  }
   taxa <- dplyr::filter(cat_vars, 
                         attributeName %in% species_col,
                         !(code %in% codes_to_omit)) %>%
