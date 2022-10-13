@@ -1,0 +1,42 @@
+"Veg_type_code","Veg_type_desc","Is_forested","Detection_class","LEWI","MORA","NOCA","OLYM","SAJH"
+"ALYC","Alaska Yellow Cedar",1,"Dense",,1,1,1,
+"BEAH","Beach",0,"Sparse",1,,,,1
+"BIGM","Big Leaf Maple",1,"Dense",,,1,1,
+"BLCO","Black Cottonwood",1,"Dense",,1,1,1,
+"BURN","Burn",0,"Sparse",,1,1,1,
+"CODM","Conifer-Deciduous Mix",1,"Dense",1,1,1,1,1
+"DEVO","Developed",0,"Sparse",1,1,1,1,1
+"DFWH","Mixed Douglas-fir/Western Hemlock",1,"Dense",1,1,1,1,1
+"DOFI","Douglas-fir",1,"Dense",1,1,1,1,1
+"DUGR","Dune Grass",0,"Sparse",1,,,,
+"ENGS","Englemann Spruce",1,"Dense",,1,1,,
+"GRAF","Grand Fir",1,"Dense",,1,1,1,
+"GRAS","Grassland",0,"Sparse",,1,1,,1
+"HAMI","Hardwood Mix",1,"Dense",,1,1,1,1
+"HEAT","Heather",0,"Sparse",,1,1,1,
+"LOPI","Lodgepole Pine",1,"Dense",,,1,1,
+"MEAD","Meadow",0,"Sparse",1,1,1,1,1
+"MICO","Mixed Conifer",1,"Dense",1,1,1,1,1
+"MOHE","Mountain Hemlock",1,"Dense",,1,1,1,
+"NOBF","Noble Fir",1,"Dense",,1,,,
+"PASF","Pacific Silver Fir",1,"Dense",,1,1,1,
+"PAST","Pasture",0,"Sparse",1,,,,
+"PAWE","Palustrine Wetland",0,"Sparse",1,,,1,
+"POPI","Ponderosa Pine",1,"Dense",,,1,,
+"QUAS","Quaking Aspen",1,"Dense",,,1,,
+"REAL","Red Alder",1,"Dense",1,1,1,1,1
+"RIWE","Riverine Wetland",0,"Sparse",1,,,,
+"ROSV","Rock/Sparsely Vegetated",0,"Sparse",,1,1,1,
+"SADU","Sand Dune",0,"Sparse",1,,,,1
+"SHPI","Shore Pine",1,"Dense",1,,,,1
+"SHRU","Shrub",0,"Dense",1,1,1,1,1
+"SISP","Sitka Spruce",1,"Dense",1,,,1,
+"SNOW","Snow",0,"Sparse",,1,1,1,
+"SUBF","Subalpine fir",1,"Sparse",,1,1,1,
+"SULA","Subalpine Larch",1,"Sparse",,,1,,
+"WATE","Water",0,"Sparse",1,1,1,1,1
+"WBPI","Whitebark Pine",1,"Sparse",,1,1,1,
+"WEHE","Western Hemlock",1,"Dense",1,1,1,1,1
+"WERC","Western Red Cedar",1,"Dense",,1,1,1,1
+"WRCH","Western Red Cedar/Western Hemlock",1,"Dense",,1,1,1,1
+"WSWE","Willow/Shrub Wetland",0,"Dense",1,,1,,

@@ -1,0 +1,12 @@
+"Park_code","Stratum_code","Stratum_label","Stratum_definition","N_population","Weight_factor"
+"LEWI","4","Parkwide","Systematic grid for the whole park",,
+"MORA","1","High","Elevations >1350 and <=2500 m",4837,120.92498
+"MORA","2","Medium","Elevations >800 and <=1350 m",3754,93.850006
+"MORA","3","Low","Elevations <=800 m",1094,27.35
+"NOCA","1","High","Elevations >1350 m",2073,51.975
+"NOCA","2","Medium","Elevations >650 and <=1350 m",5116,127.8
+"NOCA","3","Low","Elevations <=650 m",4005,100
+"OLYM","1","High","Elevations >1350 and <=2029 m",3972,99.3
+"OLYM","2","Medium","Elevations >650 and <=1350 m",6872,171.8
+"OLYM","3","Low","Elevations <=650 m",9755,243.875
+"SAJH","4","Parkwide","Systematic grid for the whole park",,

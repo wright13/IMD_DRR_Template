@@ -1,0 +1,289 @@
+"Species_code","Scientific_name","Pref_com_name","Other_com_name","Pref_com_is","Sort_order","TSN","Accepted_TSN","Category","Family","Taxon_type","Taxon_is_active","Refers_to_code","Project_taxon_notes","Taxon_notes","<>","LEWI","MORA","NOCA","OLYM","SAJH"
+"AMBI","Botaurus lentiginosus","American Bittern","American Bittern","Same",769,174856,,"Bird","Ardeidae","Specific",1,,,,,1,1,1,1,1
+"AMCO","Fulica americana","American Coot","American Coot","Same",468,176292,,"Bird","Rallidae","Specific",1,,,,,1,1,1,1,1
+"AMCR","Corvus brachyrhynchos","American Crow","American Crow","Same",1458,179731,,"Bird","Corvidae","Specific",1,,,,,1,1,1,1,1
+"AMDI","Cinclus mexicanus","American Dipper","American Dipper","Same",1584,178536,,"Bird","Cinclidae","Specific",1,,,,,1,1,1,1,1
+"AMGO","Spinus tristis","American Goldfinch","American Goldfinch","Same",1853,179249,,"Bird","Fringillidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 179236), taxon definition consistent",,,1,1,1,1,1
+"AMGP","Pluvialis dominica","American Golden-Plover","Lesser Golden-Plover","Different",486,176564,,"Bird","Charadriidae","Specific",1,,,,,1,1,1,1,1
+"AMKE","Falco sparverius","American Kestrel","American Kestrel","Same",1053,175622,,"Bird","Falconidae","Specific",1,,,,,1,1,1,1,1
+"AMPI","Anthus rubescens","American Pipit","American Pipit","Same",1757,554127,,"Bird","Passeridae","Specific",1,,,"Recently split from A. spinoletta, a European species",,1,1,1,1,1
+"AMRE","Setophaga ruticilla","American Redstart","American Redstart","Same",2091,178979,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"AMRO","Turdus migratorius","American Robin","American Robin","Same",1681,179759,,"Bird","Muscicapidae","Specific",1,,,,,1,1,1,1,1
+"AMWI","Anas americana","American Wigeon","American Wigeon","Same",64,175094,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"ANHU","Calypte anna","Anna’s Hummingbird","Anna’s Hummingbird","Same",365,178036,,"Bird","Trochilidae","Specific",1,,,,,1,1,1,1,1
+"ANMU","Synthliboramphus antiquus","Ancient Murrelet","Ancient Murrelet","Same",591,177008,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"ATTW","Picoides dorsalis","American Three-toed Woodpecker","American Three-toed Woodpecker","Same",1009,685725,685725,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"AWPE","Pelecanus erythrorhynchos","American White Pelican","American White Pelican","Same",766,174684,,"Bird","Pelecanidae","Specific",1,,,,,1,1,1,1,1
+"BADO","Strix varia","Barred Owl","Barred Owl","Same",908,177921,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"BAEA","Haliaeetus leucocephalus","Bald Eagle","Bald Eagle","Same",839,175420,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"BAGO","Bucephala islandica","Barrow’s Goldeneye","Barrow’s Goldeneye","Same",100,175144,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"BANO","Tyto alba","Barn Owl","Barn Owl","Same",874,177851,,"Bird","Tytonidae","Specific",1,,,,,1,1,1,1,1
+"BARS","Hirundo rustica","Barn Swallow","Barn Swallow","Same",1495,178448,,"Bird","Hirundinidae","Specific",1,,,,,1,1,1,1,1
+"BBWO","Picoides arcticus","Black-backed Woodpecker","Black-backed Woodpecker","Same",1010,178250,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"BCCH","Poecile atricapillus","Black-capped Chickadee","Black-capped Chickadee","Same",1502,554382,,"Bird","Paridae","Specific",1,,,,,1,1,1,1,1
+"BEKI","Megaceryle alcyon","Belted Kingfisher","Belted Kingfisher","Same",956,178106,,"Bird","Cerylidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 178119), taxon definition consistent",,,1,1,1,1,1
+"BEWR","Thryomanes bewickii","Bewick’s Wren","Bewick’s Wren","Same",1540,178562,,"Bird","Certhiidae","Specific",1,,,,,1,1,1,1,1
+"BFAL","Phoebastria nigripes","Black-footed Albatross","Black-footed Albatross","Same",681,554379,,"Bird","Procellariidae","Specific",1,,,,,1,1,1,1,1
+"BHCO","Molothrus ater","Brown-headed Cowbird","Brown-headed Cowbird","Same",2038,179112,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"BHGR","Pheucticus melanocephalus","Black-headed Grosbeak","Black-headed Grosbeak","Same",2169,179140,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"BLKI","Rissa tridactyla","Black-legged Kittiwake","Black-legged Kittiwake","Same",602,176875,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"BLOY","Haematopus bachmani","Black Oystercatcher","American Black Oystercatcher","Different",481,176475,,"Bird","Charadriidae","Specific",1,,,,,1,1,1,1,1
+"BLPH","Sayornis nigricans","Black Phoebe","Black Phoebe","Same",1377,178330,,"Bird","Tyrannidae","Specific",1,,,,,1,,,,
+"BLSC","Melanitta americana","Black Scoter","Black Scoter","Same",96,,,"Bird","Anatidae","Specific",1,,"Mar 2017: Corrected Sci_name and TSN to indicate correct species (TSN was 175171)",,,1,1,1,1,1
+"BLSW","Cypseloides niger","Black Swift","Black Swift","Same",282,177997,,"Bird","Apodidae","Specific",1,,,,,1,1,1,1,1
+"BLTU","Arenaria melanocephala","Black Turnstone","Black Turnstone","Same",518,176574,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"BLUG","Dendragapus obscurus","Dusky Grouse","Blue Grouse","Different",159,175860,,"Bird","Phasianidae","Specific",0,"SOGR","Refer to Sooty Grouse",,,1,1,1,1,1
+"BOBO","Dolichonyx oryzivorus","Bobolink","Bobolink","Same",1991,179032,179032,"Bird","Icteridae","Specific",1,,,,,,,1,,
+"BOGU","Chroicocephalus philadelphia","Bonaparte’s Gull","Bonaparte’s Gull","Same",606,824040,,"Bird","Laridae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 176839), taxon definition consistent",,,1,1,1,1,1
+"BOOW","Aegolius funereus","Boreal Owl","Boreal Owl","Same",916,177938,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"BOWA","Bombycilla garrulus","Bohemian Waxwing","Bohemian Waxwing","Same",1716,178529,,"Bird","Bombycillidae","Specific",1,,,,,1,1,1,1,1
+"BRAC","Phalacrocorax penicillatus","Brandt’s Cormorant","Brandt’s Cormorant","Same",759,174724,,"Bird","Phalacrocoracidae","Specific",1,,,,,1,1,1,1,1
+"BRAN","Branta bernicla","Brant","Brant","Same",28,175011,175011,"Bird","Anatidae","Specific",1,,,,,,,,,1
+"BRBL","Euphagus cyanocephalus","Brewer’s Blackbird","Brewer’s Blackbird","Same",2043,179094,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"BRCR","Certhia americana","Brown Creeper","Brown Creeper","Same",1520,178803,,"Bird","Certhiidae","Specific",1,,,,,1,1,1,1,1
+"BRPE","Pelecanus occidentalis","Brown Pelican","Brown Pelican","Same",767,174685,,"Bird","Pelecanidae","Specific",1,,,,,1,1,1,1,1
+"BRSP","Spizella breweri","Brewer's Sparrow","Brewer's Sparrow","Same",1898,179440,179440,"Bird","Emberizidae","Specific",1,,,,,,,1,,
+"BTPI","Patagioenas fasciata","Band-tailed Pigeon","Band-tailed Pigeon","Same",183,676899,177065,"Bird","Columbidae","Specific",1,,,,,1,1,1,1,1
+"BTYW","Setophaga nigrescens","Black-throated Gray Warbler","Black-throated Gray Warbler","Same",2122,178896,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"BUFF","Bucephala albeola","Bufflehead","Bufflehead","Same",98,175145,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"BUOR","Icterus bullockii","Bullock's Oriole","Bullock's Oriole","Same",2020,554267,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"BUSH","Psaltriparus minimus","Bushtit","Bushtit","Same",1515,178764,,"Bird","Aegithalidae","Specific",1,,,,,1,1,1,1,1
+"BWTE","Anas discors","Blue-winged Teal","Blue-winged Teal","Same",57,175086,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"CAAU","Ptychoramphus aleuticus","Cassin’s Auklet","Cassin’s Auklet","Same",592,177013,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"CACG","Branta hutchinsii","Cackling Goose","Cackling Goose","Same",33,714068,714068,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"CAFI","Haemorhous cassinii","Cassin’s Finch","Cassin’s Finch","Same",1831,997804,,"Bird","Fringillidae","Specific",1,,"Genus changed from Carpodacus, definition of taxon consistent",,,1,1,1,1,1
+"CAGU","Larus californicus","California Gull","California Gull","Same",622,176829,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"CAHU","Selasphorus calliope","Calliope Hummingbird","Calliope Hummingbird","Same",376,,,"Bird","Trochilidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 178048), taxon definition consistent",,,1,1,1,1,1
+"CAJA","Perisoreus canadensis","Gray Jay","Canada Jay","Different",1427,179667,,"Bird","Corvidae","Specific",1,,"April 2020: Updated Species_code (GRAJ) and Comman_name (Gray Jay) base on 59th supplement of American ornithological society",,,1,1,1,1,1
+"CANG","Branta canadensis","Canada Goose","Canada Goose","Same",37,174999,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"CANV","Aythya valisineria","Canvasback","Canvasback","Same",78,175129,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"CANW","Catherpes mexicanus","Canyon Wren","Canyon Wren","Same",1524,178610,,"Bird","Certhiidae","Specific",1,,,,,1,1,1,1,1
+"CAQU","Callipepla californica","California Quail","California Quail","Same",131,175876,,"Bird","Odontophoridae","Specific",1,,,,,1,1,1,1,1
+"CASJ","Aphelocoma californica","California Scrub-Jay","California Scrub-Jay","Same",1448,554128,,"Bird","Corvidae","Specific",1,,"Mar 2017: Code and common name updated to reflect common name change from Western Scrub Jay due to splitting off taxa from other regions",,,1,1,1,1,1
+"CATE","Hydroprogne caspia","Caspian Tern","Caspian Tern","Same",649,176935,,"Bird","Laridae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 176924), taxon definition consistent",,,1,1,1,1,1
+"CAVI","Vireo cassinii","Cassin's Vireo","Cassin's Vireo","Same",1416,554456,,"Bird","Vireonidae","Specific",1,,,,,1,1,1,1,1
+"CBCH","Poecile rufescens","Chestnut-backed Chickadee","Chestnut-backed Chickadee","Same",1505,554387,,"Bird","Paridae","Specific",1,,,,,1,1,1,1,1
+"CCSP","Spizella pallida","Clay-colored Sparrow","Clay-colored Sparrow","Same",1895,179439,,"Bird","Fringillidae","Specific",1,,,,,,,,,1
+"CEDW","Bombycilla cedrorum","Cedar Waxwing","Cedar Waxwing","Same",1717,178532,,"Bird","Bombycillidae","Specific",1,,,,,1,1,1,1,1
+"CHSP","Spizella passerina","Chipping Sparrow","Chipping Sparrow","Same",1894,179435,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"CITE","Anas cyanoptera","Cinnamon Teal","Cinnamon Teal","Same",59,175089,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"CLNU","Nucifraga columbiana","Clark’s Nutcracker","Clark’s Nutcracker","Same",1453,179750,,"Bird","Corvidae","Specific",1,,,,,1,1,1,1,1
+"CLSW","Petrochelidon pyrrhonota","Cliff Swallow","Cliff Swallow","Same",1497,178455,,"Bird","Hirundinidae","Specific",1,,,,,1,1,1,1,1
+"COHA","Accipiter cooperii","Cooper’s Hawk","Cooper’s Hawk","Same",833,175309,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"COLO","Gavia immer","Common Loon","Common Loon","Same",670,174469,,"Bird","Gaviidae","Specific",1,,,,,1,1,1,1,1
+"COME","Mergus merganser","Common Merganser","Common Merganser","Same",103,175185,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"COMU","Uria aalge","Common Murre","Common Murre","Same",579,176974,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"CONI","Chordeiles minor","Common Nighthawk","Common Nighthawk","Same",256,177979,,"Bird","Caprimulgidae","Specific",1,,,,,1,1,1,1,1
+"CORA","Corvus corax","Common Raven","Common Raven","Same",1471,179725,,"Bird","Corvidae","Specific",1,,,,,1,1,1,1,1
+"COSN","Gallinago gallinago","Common Snipe","Wilson's Snipe","Different",551,176700,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"COYE","Geothlypis trichas","Common Yellowthroat","Common Yellowthroat","Same",2084,178944,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"DCCO","Phalacrocorax auritus","Double-crested Cormorant","Double-crested Cormorant","Same",761,174717,,"Bird","Phalacrocoracidae","Specific",1,,,,,1,1,1,1,1
+"DEJU","Junco hyemalis","Dark-eyed Junco","Dark-eyed Junco","Same",1910,179410,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"DOWO","Picoides pubescens","Downy Woodpecker","Downy Woodpecker","Same",1012,178259,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"DUFL","Empidonax oberholseri","Dusky Flycatcher","Dusky Flycatcher","Same",1368,178346,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"DUNL","Calidris alpina","Dunlin","Dunlin","Same",532,176661,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"EAKI","Tyrannus tyrannus","Eastern Kingbird","Eastern Kingbird","Same",1333,178279,178279,"Bird","Tyrannidae","Specific",1,,,,,,,1,,1
+"EUCD","Streptopelia decaocto","Eurasian Collared-dove","Eurasian Collared-dove","Same",192,177139,177139,"Bird","Columbidae","Specific",1,,,,,1,,1,1,1
+"EUST","Sturnus vulgaris","European Starling","European Starling","Same",1714,179637,,"Bird","Sturnidae","Specific",1,,,,,1,1,1,1,1
+"EVGR","Coccothraustes vespertinus","Evening Grosbeak","Evening Grosbeak","Same",1780,179173,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"FFSH","Ardenna carneipes","Flesh-footed Shearwater","Flesh-footed Shearwater","Same",736,,,"Bird","Procellariidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 174548), taxon definition consistent",,,1,1,1,1,1
+"FOSP","Passerella iliaca","Fox Sparrow","Fox Sparrow","Same",1906,179464,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"FOTE","Sterna forsteri","Forster’s Tern","Forster’s Tern","Same",657,176887,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"FRGU","Leucophaeus pipixcan","Franklin's Gull","Franklin's Gull","Same",613,176838,,"Bird","Laridae","Specific",1,,,,,,,,1,
+"FTSP","Oceanodroma furcata","Fork-tailed Storm-Petrel","Fork-tailed Storm-Petrel","Same",688,174625,,"Bird","Procellariidae","Specific",1,,,,,1,1,1,1,1
+"GADW","Anas strepera","Gadwall","Gadwall","Same",61,175073,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"GBHE","Ardea herodias","Great Blue Heron","Great Blue Heron","Same",776,174773,,"Bird","Ardeidae","Specific",1,,,,,1,1,1,1,1
+"GCKI","Regulus satrapa","Golden-crowned Kinglet","Golden-crowned Kinglet","Same",1587,179865,,"Bird","Regulidae","Specific",1,,,,,1,1,1,1,1
+"GCRF","Leucosticte tephrocotis","Gray-crowned Rosy-Finch","Gray-crowned Rosy-Finch","Same",1826,179215,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"GCSP","Zonotrichia atricapilla","Golden-crowned Sparrow","Golden-crowned Sparrow","Same",1927,179461,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"GGOW","Strix nebulosa","Great Gray Owl","Great Gray Owl","Same",910,177929,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"GHOW","Bubo virginianus","Great Horned Owl","Great Horned Owl","Same",892,177884,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"GOEA","Aquila chrysaetos","Golden Eagle","Golden Eagle","Same",821,175407,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"GRCA","Dumetella carolinensis","Gray Catbird","Gray Catbird","Same",1693,178625,,"Bird","Sturnidae","Specific",1,,,,,1,1,1,1,1
+"GREG","Ardea alba","Great Egret","Great Egret","Same",781,554135,,"Bird","Ardeidae","Specific",1,,,,,1,1,1,1,1
+"GRHE","Butorides virescens","Green Heron","Green Heron","Same",793,174793,,"Bird","Ardeidae","Specific",1,,,,,1,1,1,1,1
+"GRSC","Aythya marila","Greater Scaup","Greater Scaup","Same",83,175130,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"GRYE","Tringa melanoleuca","Greater Yellowlegs","Greater Yellowlegs","Same",564,176619,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"GWFG","Anser albifrons","Greater White-fronted Goose","Greater White-fronted Goose","Same",23,175020,175020,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"GWGU","Larus glaucescens","Glaucous-winged Gull","Glaucous-winged Gull","Same",631,176814,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"GWTE","Anas crecca","Green-winged Teal","Green-winged Teal","Same",75,175081,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"HADU","Histrionicus histrionicus","Harlequin Duck","Harlequin Duck","Same",89,175149,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"HAFL","Empidonax hammondii","Hammond's Flycatcher","Hammond's Flycatcher","Same",1365,554254,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"HAWO","Picoides villosus","Hairy Woodpecker","Hairy Woodpecker","Same",1016,178262,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"HEEG","Larus heermanni","Heermann’s Gull","Heermann’s Gull","Same",616,176841,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"HETH","Catharus guttatus","Hermit Thrush","Hermit Thrush","Same",1661,179779,,"Bird","Muscicapidae","Specific",1,,,,,1,1,1,1,1
+"HEWA","Setophaga occidentalis","Hermit Warbler","Hermit Warbler","Same",2125,178902,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"HOFI","Haemorhous mexicanus","House Finch","House Finch","Same",1829,997805,,"Bird","Fringillidae","Specific",1,,"Genus changed from Carpodacus, definition of taxon consistent",,,1,1,1,1,1
+"HOGR","Podiceps auritus","Horned Grebe","Horned Grebe","Same",170,174482,,"Bird","Podicipedidae","Specific",1,,,,,1,1,1,1,1
+"HOLA","Eremophila alpestris","Horned Lark","Horned Lark","Same",1476,554256,,"Bird","Alaudidae","Specific",1,,,,,1,1,1,1,1
+"HOME","Lophodytes cucullatus","Hooded Merganser","Hooded Merganser","Same",102,175183,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"HOPU","Fratercula corniculata","Horned Puffin","Horned Puffin","Same",599,177029,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"HOSP","Passer domesticus","House Sparrow","House Sparrow","Same",1747,179628,,"Bird","Passeridae","Specific",1,,,,,1,1,1,1,1
+"HOWR","Troglodytes aedon","House Wren","House Wren","Same",1528,178541,,"Bird","Certhiidae","Specific",1,,,,,1,1,1,1,1
+"HUVI","Vireo huttoni","Hutton’s Vireo","Hutton’s Vireo","Same",1413,178997,,"Bird","Vireonidae","Specific",1,,,,,1,1,1,1,1
+"KILL","Charadrius vociferus","Killdeer","Killdeer","Same",490,176520,,"Bird","Charadriidae","Specific",1,,,,,1,1,1,1,1
+"LASP","Chondestes grammacus","Lark Sparrow","Lark Sparrow","Same",1892,179371,179371,"Bird",,"Specific",1,,,,,1,1,1,1,1
+"LAZB","Passerina amoena","Lazuli Bunting","Lazuli Bunting","Same",2176,179151,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"LBCU","Numenius americanus","Long-billed Curlew","Long-billed Curlew","Same",509,176593,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"LBDO","Limnodromus scolopaceus","Long-billed Dowitcher","Long-billed Dowitcher","Same",544,176679,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"LEFL","Empidonax minimus","Least Flycatcher","Least Flycatcher","Same",1364,178344,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"LEOW","Asio otus","Long-eared Owl","Long-eared Owl","Same",911,177932,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"LESA","Calidris minutilla","Least Sandpiper","Least Sandpiper","Same",537,176656,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"LESC","Aythya affinis","Lesser Scaup","Lesser Scaup","Same",84,175134,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"LESP","Oceanodroma leucorhoa","Leach’s Storm-Petrel","Leach’s Storm-Petrel","Same",691,174628,,"Bird","Procellariidae","Specific",1,,,,,1,1,1,1,1
+"LEWO","Melanerpes lewis","Lewis’s Woodpecker","Lewis’s Woodpecker","Same",984,178196,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"LEYE","Tringa flavipes","Lesser Yellowlegs","Lesser Yellowlegs","Same",560,176620,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"LISP","Melospiza lincolnii","Lincoln’s Sparrow","Lincoln’s Sparrow","Same",1950,179484,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"LTDU","Clangula hyemalis","Long-tailed Duck","Long-tailed Duck","Same",97,175147,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"MAGO","Limosa fedoa","Marbled Godwit","Marbled Godwit","Same",516,176686,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"MALL","Anas platyrhynchos","Mallard","Mallard","Same",68,175063,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"MAMU","Brachyramphus marmoratus","Marbled Murrelet","Marbled Murrelet","Same",586,176996,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"MAWR","Cistothorus palustris","Marsh Wren","Marsh Wren","Same",1538,178608,,"Bird","Certhiidae","Specific",1,,,,,1,1,1,1,1
+"MEGU","Larus canus","Mew Gull","Mew Gull","Same",617,176832,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"MERL","Falco columbarius","Merlin","Merlin","Same",1055,175613,,"Bird","Falconidae","Specific",1,,,,,1,1,1,1,1
+"MGWA","Geothlypis tolmiei","MacGillivray’s Warbler","MacGillivray’s Warbler","Same",2076,950023,,"Bird","Fringillidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 178940), taxon definition consistent",,,1,1,1,1,1
+"MOBL","Sialia currucoides","Mountain Bluebird","Mountain Bluebird","Same",1635,179811,,"Bird","Muscicapidae","Specific",1,,,,,1,1,1,1,1
+"MOCH","Poecile gambeli","Mountain Chickadee","Mountain Chickadee","Same",1503,554385,,"Bird","Paridae","Specific",1,,,,,1,1,1,1,1
+"MODO","Zenaida macroura","Mourning Dove","Mourning Dove","Same",225,177125,,"Bird","Columbidae","Specific",1,,,,,1,1,1,1,1
+"MOUQ","Oreortyx pictus","Mountain Quail","Mountain Quail","Same",121,175893,,"Bird","Odontophoridae","Specific",1,,,,,1,1,1,1,1
+"NAWA","Oreothlypis ruficapilla","Nashville Warbler","Nashville Warbler","Same",2071,,,"Bird","Fringillidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 178861), taxon definition consistent",,,1,1,1,1,1
+"NOCR","Corvus caurinus","Northwestern Crow","Northwestern Crow","Same",1459,179736,,"Bird","Corvidae","Specific",1,,,,,1,1,1,1,1
+"NOFL","Colaptes auratus","Northern Flicker","Northern Flicker","Same",1028,178154,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"NOFU","Fulmarus glacialis","Northern Fulmar","Northern Fulmar","Same",702,174536,,"Bird","Procellariidae","Specific",1,,,,,1,1,1,1,1
+"NOGO","Accipiter gentilis","Northern Goshawk","Northern Goshawk","Same",836,175300,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"NOHA","Circus cyaneus","Northern Harrier","Northern Harrier","Same",826,175430,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"NOMO","Mimus polyglottos","Northern Mockingbird","Northern Mockingbird","Same",1713,178620,,"Bird","Sturnidae","Specific",1,,,,,1,1,1,1,1
+"NONE","none","No taxon observed",,"Same",2263,,,"Unspecified",,"Unknown",1,,,,,,,,,
+"NOPI","Anas acuta","Northern Pintail","Northern Pintail","Same",74,175074,,"Bird","Anatidae","Specific",1,,,,,,,1,,
+"NOPO","Glaucidium gnoma","Northern Pygmy-Owl","Northern Pygmy-Owl","Same",895,177902,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"NRWS","Stelgidopteryx serripennis","Northern Rough-winged Swallow","Northern Rough-winged Swallow","Same",1486,178443,,"Bird","Hirundinidae","Specific",1,,,,,1,1,1,1,1
+"NSHO","Anas clypeata","Northern Shoveler","Northern Shoveler","Same",60,175096,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"NSWO","Aegolius acadicus","Northern Saw-whet Owl","Northern Saw-whet Owl","Same",917,177942,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"OCWA","Oreothlypis celata","Orange-crowned Warbler","Orange-crowned Warbler","Same",2068,,,"Bird","Fringillidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 178856), taxon definition consistent",,,1,1,1,1,1
+"OSFL","Contopus cooperi","Olive-sided Flycatcher","Olive-sided Flycatcher","Same",1346,554221,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"OSPR","Pandion haliaetus","Osprey","Osprey","Same",813,175590,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"PALO","Gavia pacifica","Pacific Loon","Pacific Loon","Same",669,174475,,"Bird","Gaviidae","Specific",1,,,,,1,1,1,1,1
+"PAWR","Troglodytes pacificus","Pacific Wren","Pacific Wren","Same",1534,916804,,"Bird","Certhiidae","Specific",1,,,,,1,1,1,1,1
+"PBGR","Podilymbus podiceps","Pied-billed Grebe","Pied-billed Grebe","Same",168,174505,,"Bird","Podicipedidae","Specific",1,,,,,1,1,1,1,1
+"PECO","Phalacrocorax pelagicus","Pelagic Cormorant","Pelagic Cormorant","Same",764,174725,,"Bird","Phalacrocoracidae","Specific",1,,,,,1,1,1,1,1
+"PEFA","Falco peregrinus","Peregrine Falcon","Peregrine Falcon","Same",1061,175604,,"Bird","Falconidae","Specific",1,,,,,1,1,1,1,1
+"PESA","Calidris melanotos","Pectoral Sandpiper","Pectoral Sandpiper","Same",540,176653,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"PFSH","Ardenna creatopus","Pink-footed Shearwater","Pink-footed Shearwater","Same",735,,,"Bird","Procellariidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 174547), taxon definition consistent",,,1,1,1,1,1
+"PIGR","Pinicola enucleator","Pine Grosbeak","Pine Grosbeak","Same",1823,179205,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"PIGU","Cepphus columba","Pigeon Guillemot","Pigeon Guillemot","Same",584,176991,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"PISI","Spinus pinus","Pine Siskin","Pine Siskin","Same",1845,179246,,"Bird","Fringillidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 179233), taxon definition consistent",,,1,1,1,1,1
+"PIWO","Dryocopus pileatus","Pileated Woodpecker","Pileated Woodpecker","Same",1037,178166,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"PRFA","Falco mexicanus","Prairie Falcon","Prairie Falcon","Same",1062,175603,175603,"Bird","Falconidae","Specific",1,,,,,,1,1,,
+"PSFL","Empidonax difficilis","Pacific-slope Flycatcher","Pacific-slope Flycatcher","Same",1370,178348,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"PUFI","Haemorhous purpureus","Purple Finch","Purple Finch","Same",1830,997803,,"Bird","Fringillidae","Specific",1,,"Genus changed from Carpodacus, definition of taxon consistent",,,1,1,1,1,1
+"PUMA","Progne subis","Purple Martin","Purple Martin","Same",1491,178464,,"Bird","Hirundinidae","Specific",1,,,,,1,1,1,1,1
+"RBGU","Larus delawarensis","Ring-billed Gull","Ring-billed Gull","Same",618,176830,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"RBME","Mergus serrator","Red-breasted Merganser","Red-breasted Merganser","Same",104,175187,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"RBNU","Sitta canadensis","Red-breasted Nuthatch","Red-breasted Nuthatch","Same",1516,178784,,"Bird","Sittidae","Specific",1,,,,,1,1,1,1,1
+"RBSA","Sphyrapicus ruber","Red-breasted Sapsucker","Red-breasted Sapsucker","Same",1006,178212,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"RCKI","Regulus calendula","Ruby-crowned Kinglet","Ruby-crowned Kinglet","Same",1588,179870,,"Bird","Regulidae","Specific",1,,,,,1,1,1,1,1
+"RECR","Loxia curvirostra","Red Crossbill","Red Crossbill","Same",1839,179259,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"REDH","Aythya americana","Redhead","Redhead","Same",79,175125,175125,"Bird","Anatidae","Specific",1,,,,,,,1,,
+"REKN","Calidris canutus","Red Knot","Red Knot","Same",520,176642,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"REVI","Vireo olivaceus","Red-eyed Vireo","Red-eyed Vireo","Same",1423,179021,,"Bird","Vireonidae","Specific",1,,,,,1,1,1,1,1
+"RHAU","Cerorhinca monocerata","Rhinoceros Auklet","Rhinoceros Auklet","Same",597,177023,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"RNDU","Aythya collaris","Ring-necked Duck","Ring-necked Duck","Same",81,175128,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"RNEP","Phasianus colchicus","Ring-necked Pheasant","Ring-necked Pheasant","Same",150,175905,,"Bird","Phasianidae","Specific",1,,,,,1,1,1,1,1
+"RNGR","Podiceps grisegena","Red-necked Grebe","Red-necked Grebe","Same",171,174479,,"Bird","Podicipedidae","Specific",1,,,,,1,1,1,1,1
+"RNPH","Phalaropus lobatus","Red-necked Phalarope","Red-necked Phalarope","Same",569,176735,,"Bird","Scolopacidae","Specific",1,,,,,,,1,1,
+"RNSA","Sphyrapicus nuchalis","Red-naped Sapsucker","Red-naped Sapsucker","Same",1004,178211,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"ROPI","Columba livia","Rock Pigeon","Rock Dove","Different",176,177071,,"Bird","Columbidae","Specific",1,,,,,1,1,1,1,1
+"ROWR","Salpinctes obsoletus","Rock Wren","Rock Wren","Same",1521,178614,,"Bird","Certhiidae","Specific",1,,,,,1,1,1,1,1
+"RRSH","Sphyrapicus nuchalis x ruber","Red-naped x Red-breasted Sapsucker Hybrid","Red-naped x Red-breasted Sapsucker Hybrid","Same",1200,,,"Bird","Picidae","Specific",1,,,,,,,1,,
+"RTHA","Buteo jamaicensis","Red-tailed Hawk","Red-tailed Hawk","Same",869,175350,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"RTLO","Gavia stellata","Red-throated Loon","Red-throated Loon","Same",667,174474,,"Bird","Gaviidae","Specific",1,,,,,1,1,1,1,1
+"RUDU","Oxyura jamaicensis","Ruddy Duck","Ruddy Duck","Same",106,175175,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"RUGR","Bonasa umbellus","Ruffed Grouse","Ruffed Grouse","Same",152,175790,,"Bird","Phasianidae","Specific",1,,,,,1,1,1,1,1
+"RUHU","Selasphorus rufus","Rufous Hummingbird","Rufous Hummingbird","Same",371,178040,,"Bird","Trochilidae","Specific",1,,,,,1,1,1,1,1
+"RUTU","Arenaria interpres","Ruddy Turnstone","Ruddy Turnstone","Same",517,176571,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"RWBL","Agelaius phoeniceus","Red-winged Blackbird","Red-winged Blackbird","Same",2031,179045,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"SACR","Antigone canadensis","Sandhill Crane","Sandhill Crane","Same",471,,,"Bird","Gruidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change from Grus (TSN was 176177), taxon definition consistent",,,1,1,1,1,1
+"SAND","Calidris alba","Sanderling","Sanderling","Same",531,176669,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"SAPH","Sayornis saya","Say's Phoebe","Say's Phoebe","Same",1379,178333,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"SAVS","Passerculus sandwichensis","Savannah Sparrow","Savannah Sparrow","Same",1944,179314,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"SBDO","Limnodromus griseus","Short-billed Dowitcher","Short-billed Dowitcher","Same",543,176675,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"SEOW","Asio flammeus","Short-eared Owl","Short-eared Owl","Same",913,177935,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"SEPL","Charadrius semipalmatus","Semipalmated Plover","Semipalmated Plover","Same",492,176506,,"Bird","Charadriidae","Specific",1,,,,,1,1,1,1,1
+"SNPL","Charadrius nivosus","Snowy Plover","Snowy Plover","Same",501,824030,,"Bird","Charadriidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 176510), taxon definition consistent",,,1,1,1,1,1
+"SOGR","Dendragapus fuliginosus","Sooty Grouse","Sooty Grouse","Same",160,,,"Bird","Phasianidae","Specific",1,,"Previously Blue/Dusky Grouse",,,1,1,1,1,1
+"SORA","Porzana carolina","Sora","Sora","Same",451,176242,,"Bird","Rallidae","Specific",1,,,,,1,1,1,1,1
+"SOSA","Tringa solitaria","Solitary Sandpiper","Solitary Sandpiper","Same",557,176615,176615,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"SOSH","Ardenna grisea","Sooty Shearwater","Sooty Shearwater","Same",733,,,"Bird","Procellariidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 174553), taxon definition consistent",,,1,1,1,1,1
+"SOSP","Melospiza melodia","Song Sparrow","Song Sparrow","Same",1949,179492,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"SPOW","Strix occidentalis","Spotted Owl","Spotted Owl","Same",906,177925,,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"SPSA","Actitis macularius","Spotted Sandpiper","Spotted Sandpiper","Same",555,726049,,"Bird","Scolopacidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 176612), taxon definition consistent",,,1,1,1,1,1
+"SPTO","Pipilo maculatus","Spotted Towhee","Spotted Towhee","Same",1966,554380,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"SSHA","Accipiter striatus","Sharp-shinned Hawk","Sharp-shinned Hawk","Same",832,175304,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"STJA","Cyanocitta stelleri","Steller’s Jay","Steller’s Jay","Same",1444,179685,,"Bird","Corvidae","Specific",1,,,,,1,1,1,1,1
+"STTS","Ardenna tenuirostris","Short-tailed Shearwater","Short-tailed Shearwater","Same",732,,,"Bird","Procellariidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 174554), taxon definition consistent",,,1,1,1,1,1
+"SURF","Calidris virgata","Surfbird","Surfbird","Same",521,,,"Bird","Scolopacidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 176673), taxon definition consistent",,,1,1,1,1,1
+"SUSC","Melanitta perspicillata","Surf Scoter","Surf Scoter","Same",91,175170,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"SWHA","Buteo swainsoni","Swainson's Hawk","Swainson's Hawk","Same",867,175367,175367,"Bird","Accipitridae","Specific",1,,,,,,1,,,
+"SWTH","Catharus ustulatus","Swainson’s Thrush","Swainson’s Thrush","Same",1660,179788,,"Bird","Muscicapidae","Specific",1,,,,,1,1,1,1,1
+"THWH","Setophaga townsendi x occidentalis","Townsend's x Hermit Warbler hybrid","Townsend's x Hermit Warbler hybrid","Same",2124,,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"TOSO","Myadestes townsendi","Townsend’s Solitaire","Townsend’s Solitaire","Same",1636,179824,,"Bird","Muscicapidae","Specific",1,,,,,1,1,1,1,1
+"TOWA","Setophaga townsendi","Townsend’s Warbler","Townsend’s Warbler","Same",2123,178897,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"TRES","Tachycineta bicolor","Tree Swallow","Tree Swallow","Same",1478,178431,,"Bird","Hirundinidae","Specific",1,,,,,1,1,1,1,1
+"TRUS","Cygnus buccinator","Trumpeter Swan","Trumpeter Swan","Same",43,174992,,"Bird","Anatidae","Specific",1,,,,,,,1,,
+"TUPU","Fratercula cirrhata","Tufted Puffin","Tufted Puffin","Same",600,177032,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"TUVU","Cathartes aura","Turkey Vulture","Turkey Vulture","Same",809,175265,,"Bird","Ciconiidae","Specific",1,,,,,1,1,1,1,1
+"UAHA","Accipiter","Unidentified Accipiter hawk","Bird hawks","Different",837,175299,,"Bird","Accipitridae","Generic",1,,"Updated code from UNAH",,,,,,,
+"UEFL","Empidonax","Unidentified Empidonax flycatcher","Empidonax flycatchers","Different",1376,178337,,"Bird","Tyrannidae","Generic",1,,,,,,,,,
+"UHFI","Haemorhous","Unidentified Haemorhous finch","American rosefinches","Different",1832,997707,,"Bird","Fringillidae","Generic",1,,"Updated code and TSN from UCFI given genus change from Carpodacus",,,,,,,
+"UNBI","Aves","Unidentified bird","Birds","Different",2262,174371,,"Bird",,"Grouped",1,,,,,,,,,
+"UNDU","Anatinae","Unidentified duck","Ducks","Different",107,714011,,"Bird","Anatidae","Generic",1,,"Mar 2017: Updated Sci_name and TSN from Anatinae to reflect usage specificity (ducks only)",,,,,,,
+"UNFL","Tyrannidae","Unidentified flycatcher","Tyrant flycatchers","Different",1384,178277,,"Bird","Tyrannidae","Generic",1,,,,,,,,,
+"UNHA","Accipitridae","Unidentified hawk","Hawks, eagles, kites","Different",873,175280,,"Bird","Accipitridae","Generic",1,,,,,,,,,
+"UNHU","Trochilidae","Unidentified hummingbird","Hummingbirds","Different",432,178028,,"Bird","Trochilidae","Generic",1,,,,,,,,,
+"UNLG","Larus","Unidentified gull","Gulls and kittiwakes","Different",635,176803,,"Bird","Laridae","Generic",1,,"Corrected code from UNGU to UNLG",,,,,,,
+"UNOW","Strigidae","Unidentified owl","Typical owls","Different",920,177854,,"Bird","Strigidae","Generic",1,,,,,,,,,
+"UNSA","Sphyrapicus","Unidentified sapsucker","Sapsuckers","Different",1007,178201,,"Bird","Picidae","Generic",1,,,,,,,,,
+"UNSP","Emberizidae","Unidentified sparrow","Emberizid finches","Different",1974,178838,,"Bird","Emberizidae","Generic",1,,,,,,,,,
+"UNTH","Turdidae","Unidentified thrush","Unidentified thrush","Same",1688,179751,,"Bird","Turdidae","Generic",1,,,,,,,,,
+"UNWA","Parulidae","Unidentified warbler","Unidentified warbler","Same",2145,178842,,"Bird","Parulidae","Generic",1,,,,,,,,,
+"UNWO","Picinae","Unidentified woodpecker","Woodpeckers","Different",1043,553479,,"Bird","Picidae","Generic",1,,"Mar 2017: Updated Sci_name and TSN from Picidae to reflect specificity in usage (woodpeckers only)",,,,,,,
+"UNWR","Troglodytidae","Unidentified wren","Wrens","Different",1572,178539,,"Bird","Troglodytidae","Generic",1,,,,,,,,,
+"UPCH","Poecile","Unidentified chickadee","Unidentified chickadee","Same",1508,553526,,"Bird","Paridae","Generic",1,,,,,,,,,
+"USWA","Hirundininae","Unidentified swallow","Swallows","Different",1500,,,"Bird","Hirundinidae","Generic",1,,"Mar 2017: Updated Sci_name and TSN from Hirundinidae",,,,,,,
+"USWI","Apodidae","Unidentified swift","Swifts","Different",306,177995,,"Bird","Apodidae","Grouped",1,,"Mar 2017: Updated Sci_name and TSN from Apodiformes to reflect usage specificity (swifts only)",,,,,,,
+"UTHW","Unidentified Townsends/Hermit Warbler","Unidentified Townsend's/Hermit Warbler","unidentified Townsend's/Hermit Warbler","Same",2126,,,"Bird","Parulidae","Grouped",1,,,,,,1,,1,
+"VASW","Chaetura vauxi","Vaux’s Swift","Vaux’s Swift","Same",290,178002,,"Bird","Apodidae","Specific",1,,,,,1,1,1,1,1
+"VATH","Ixoreus naevius","Varied Thrush","Varied Thrush","Same",1687,179773,,"Bird","Turdidae","Specific",1,,,,,1,1,1,1,1
+"VEER","Catharus fuscescens","Veery","Veery","Same",1656,179796,,"Bird","Muscicapidae","Specific",1,,,,,1,1,1,1,1
+"VESP","Pooecetes gramineus","Vesper Sparrow","Vesper Sparrow","Same",1934,179366,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"VGSW","Tachycineta thalassina","Violet-green Swallow","Violet-green Swallow","Same",1480,178427,,"Bird","Hirundinidae","Specific",1,,,,,1,1,1,1,1
+"VIRA","Rallus limicola","Virginia Rail","Virginia Rail","Same",445,176221,,"Bird","Rallidae","Specific",1,,,,,1,1,1,1,1
+"WATA","Tringa incana","Wandering Tattler","Wandering Tattler","Same",559,176630,,"Bird","Scolopacidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 176635), taxon definition consistent",,,,,,1,
+"WAVI","Vireo gilvus","Warbling Vireo","Warbling Vireo","Same",1421,179023,,"Bird","Vireonidae","Specific",1,,,,,1,1,1,1,1
+"WBNU","Sitta carolinensis","White-breasted Nuthatch","White-breasted Nuthatch","Same",1517,178775,,"Bird","Sittidae","Specific",1,,,,,1,1,1,1,1
+"WCSP","Zonotrichia leucophrys","White-crowned Sparrow","White-crowned Sparrow","Same",1920,179455,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"WEBL","Sialia mexicana","Western Bluebird","Western Bluebird","Same",1633,179806,,"Bird","Muscicapidae","Specific",1,,,,,1,1,1,1,1
+"WEGR","Aechmophorus occidentalis","Western Grebe","Western Grebe","Same",173,174503,,"Bird","Podicipedidae","Specific",1,,,,,1,1,1,1,1
+"WEGU","Larus occidentalis","Western Gull","Western Gull","Same",619,176817,,"Bird","Laridae","Specific",1,,,,,1,1,1,1,1
+"WEKI","Tyrannus verticalis","Western Kingbird","Western Kingbird","Same",1332,178287,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"WEME","Sturnella neglecta","Western Meadowlark","Western Meadowlark","Same",1993,179039,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"WESA","Calidris mauri","Western Sandpiper","Western Sandpiper","Same",542,176668,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"WESO","Megascops kennicottii","Western Screech-Owl","Western Screech-Owl","Same",878,686659,686659,"Bird","Strigidae","Specific",1,,,,,1,1,1,1,1
+"WETA","Piranga ludoviciana","Western Tanager","Western Tanager","Same",2151,179882,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"WEWP","Contopus sordidulus","Western Wood-Pewee","Western Wood-Pewee","Same",1350,178360,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"WHIM","Numenius phaeopus","Whimbrel","Whimbrel","Same",506,176599,,"Bird","Scolopacidae","Specific",1,,,,,1,1,1,1,1
+"WHWO","Picoides albolarvatus","White-headed Woodpecker","White-headed Woodpecker","Same",1017,178256,178256,"Bird","Picidae","Specific",1,,,,,,,1,,
+"WIFL","Empidonax traillii","Willow Flycatcher","Willow Flycatcher","Same",1361,178341,,"Bird","Tyrannidae","Specific",1,,,,,1,1,1,1,1
+"WILL","Tringa semipalmata","Willet","Willet","Same",561,824147,,"Bird","Scolopacidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 176638), taxon definition consistent",,,1,1,1,1,1
+"WISA","Sphyrapicus thyroideus","Williamson’s Sapsucker","Williamson’s Sapsucker","Same",1002,178208,,"Bird","Picidae","Specific",1,,,,,1,1,1,1,1
+"WITU","Meleagris gallopavo","Wild Turkey","Wild Turkey","Same",164,176136,,"Bird","Phasianidae","Specific",1,,,,,1,1,1,1,1
+"WIWA","Cardellina pusilla","Wilson’s Warbler","Wilson’s Warbler","Same",2138,950080,,"Bird","Fringillidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 178973), taxon definition consistent",,,1,1,1,1,1
+"WODU","Aix sponsa","Wood Duck","Wood Duck","Same",54,175122,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"WTKI","Elanus leucurus","White-tailed Kite","White-tailed Kite","Same",815,175282,,"Bird","Accipitridae","Specific",1,,,,,1,1,1,1,1
+"WTPT","Lagopus leucura","White-tailed Ptarmigan","White-tailed Ptarmigan","Same",158,677541,,"Bird","Phasianidae","Specific",1,,"Mar 2017: Updated Sci_name and TSN to reflect name change (TSN was 175827), taxon definition consistent",,,1,1,1,1,1
+"WWCR","Loxia leucoptera","White-winged Crossbill","White-winged Crossbill","Same",1842,179268,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"WWSC","Melanitta fusca","White-winged Scoter","White-winged Scoter","Same",93,175163,,"Bird","Anatidae","Specific",1,,,,,1,1,1,1,1
+"YBCH","Icteria virens","Yellow-breasted Chat","Yellow-breasted Chat","Same",1989,178964,178964,"Bird","Parulidae","Specific",1,,,,,,,1,,
+"YEWA","Setophaga petechia","Yellow Warbler","Yellow Warbler","Same",2101,178878,,"Bird","Fringillidae","Specific",1,,"Code corrected from YWAR in spring 2013",,,1,1,1,1,1
+"YHBL","Xanthocephalus xanthocephalus","Yellow-headed Blackbird","Yellow-headed Blackbird","Same",1990,179043,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
+"YRWA","Setophaga coronata","Yellow-rumped Warbler","Yellow-rumped Warbler","Same",2111,178891,,"Bird","Fringillidae","Specific",1,,,,,1,1,1,1,1
